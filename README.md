@@ -1,5 +1,7 @@
 UPI Transactions Analysis – Power BI Project
+
 **📌 Project Overview**
+
 This project focuses on analyzing UPI (Unified Payments Interface) transactions to gain insights into user behavior, transaction patterns, and demographic trends. The analysis was conducted using Power BI, with a strong emphasis on data cleaning, transformation, modeling, and visualization.
 
 The final dashboard provides an interactive view of:
@@ -15,6 +17,7 @@ Regional & demographic insights
 Time-based filtering and drilldowns
 
 **🔧 Tools & Technologies**
+
 Power BI Desktop – Data visualization & dashboarding
 
 Power Query – Data transformation and cleaning
@@ -24,6 +27,7 @@ DAX (Data Analysis Expressions) – Custom calculations and measures
 Excel – Source data
 
 **📂 Data Preparation**
+
 Data Loading
 
 Imported Excel dataset into Power BI.
@@ -47,6 +51,7 @@ Dimensions: Customer demographics, Age groups, Payment modes
 Created relationships between fact and dimension fields.
 
 **📊 Key Features & Visuals**
+
 Slicers & Filters
 
 Customer Name, Gender, and Age Group slicers
@@ -72,6 +77,7 @@ KPI Cards – Key metrics for quick insights
 Bookmark Navigator – Toggle between multiple views
 
 **🎯 Insights**
+
 Younger customers (≤25 years) dominated transaction counts.
 
 A clear upward trend in UPI adoption was observed across all age groups.
